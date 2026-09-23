@@ -1,7 +1,7 @@
 # VAMPIRE-MUSIC
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/VBIT-BOT-ADDA/VAMPIRE-RESSO)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/VBIT-BOT-ADDA/KRITI-MUSIC-V2)
 
 <h1 align="center">─「 ǫᴜɪᴄᴋ sᴇᴛᴜᴘ 」─</h1>
 
@@ -24,7 +24,7 @@
    ```
  6. **📥 ᴄʟᴏɴᴇ ᴛʜᴇ ʀᴇᴘᴏsɪᴛᴏʀʏ**
    ```bash
-   git clone https://github.com/VBIT-BOT-ADDA/VAMPIRE-RESSO && cd VAMPIRE-RESSO
+   git clone https://github.com/VBIT-BOT-ADDA/KRITI-MUSIC-V2 && cd KRITI-MUSIC-V2
    ```
  7. **📂 ɪɴsᴛᴀʟʟ ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs**
    ```bash
