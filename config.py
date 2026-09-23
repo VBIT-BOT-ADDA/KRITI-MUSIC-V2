@@ -14,15 +14,15 @@ API_HASH = getenv("API_HASH","41c21b4f450a79e23b0ccf7593aeaad3")
 BOT_TOKEN = getenv("BOT_TOKEN","5418725646:AAHoubyDR")
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = getenv("MONGO_DB_URI","mongodb+srv://untoldp:untoldp@untoldp.zdixt.mongodb.net/?retryWrites=true&w=majority&appName=untoldp")
+MONGO_DB_URI = getenv("MONGO_URL")
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 600))
 
 # Chat id of a group for logging bot's activities
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID","-1003792391488"))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID"))
 
 # Get this value from @MissRose_Bot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID","6391774843"))
+OWNER_ID = int(getenv("OWNER_ID"))
 
 ARC_API_URL = getenv("ARC_API_URL", "https://api.arcmusic.fun")
 ARC_API_KEY = getenv("ARC_API_KEY", "ARC5c354b8ef8b2b1ef5d9e8b")
@@ -68,7 +68,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 2145386496))
 
 
 # Get your pyrogram v2 session from Replit
-STRING1 = getenv("STRING_SESSION","BQFX8FUAk5VbVlU1TIzaPtPcMvi4hT1I9YMw5xqFzCyIiopQKxRMVACAwNBghCJDHgXszS8Z97iq4vqLs70gwqAhfx5cesSoxtxMYSAEKCegjxlWSBTfc0OD5MvMaZAi0L4uQG1k0rSx3W8vEdF6y5WwBSG30G1LYUG-wW_nN8RGJrleanOXTFbDcuWYiWqQLSUfI0bxwlAwZosMutjMNBgFNm3gbyY4j7g1-br5KhQ6klGtCgLPNTv9UfrHhn54BjU4hzcd4j9Y3z0x210ahD4PiBFZ1gexLtGe5kHZendA1fImkTL80YDxYKtiJDT2Pvrqtens1Qowvj9GVPnBT4T53jRpYAAAAAHYFwJPAA")
+STRING1 = getenv("STRING_SESSION", None)
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
