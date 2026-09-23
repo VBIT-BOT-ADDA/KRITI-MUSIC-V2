@@ -1,7 +1,7 @@
 # DARKMUSIC
 
 ## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/llTEAM-VAMPIREll/VAMPIRE-RESSO)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/VBIT-BOT-ADDA/VAMPIRE-RESSO)
 
 <h1 align="center">─「 ǫᴜɪᴄᴋ sᴇᴛᴜᴘ 」─</h1>
 
@@ -24,7 +24,7 @@
    ```
  6. **📥 ᴄʟᴏɴᴇ ᴛʜᴇ ʀᴇᴘᴏsɪᴛᴏʀʏ**
    ```bash
-   git clone https://github.com/llTEAM-VAMPIREll/VAMPIRE-RESSO && cd VAMPIRE-RESSO
+   git clone https://github.com/VBIT-BOT-ADDA/VAMPIRE-RESSO && cd VAMPIRE-RESSO
    ```
  7. **📂 ɪɴsᴛᴀʟʟ ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs**
    ```bash
@@ -51,9 +51,3 @@
     bash start
     ```
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-</p>
-## 🚀 Deploy on Railway
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/aarushxbots/DARKCODER-V1)
