@@ -35,7 +35,11 @@ async def init():
         pass
     await app.start()
     for all_module in ALL_MODULES:
-        importlib.import_module("RessoMusic.plugins" + all_module)
+        try:
+            importlib.import_module("RessoMusic.plugins" + all_module)
+        except Exception as e:
+            LOGGER("RessoMusic.plugins").error(f"Error importing {all_module}: {e}")
+            pass
     LOGGER("RessoMusic.plugins").info("Successfully Imported Modules...")
     await userbot.start()
     await AMBOTOP.start()
