@@ -62,10 +62,10 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="•υᴘᴅᴧᴛᴇs•", url=f"https://t.me/dhruvxupdates"
+                text="•υᴘᴅᴧᴛᴇs•", url=f"https://t.me/VAMPIREUPDATES"
             ),
             InlineKeyboardButton(
-                text="•sᴜᴘᴘᴏʀᴛ•", url=f"https://t.me/dhruvxsupport"
+                text="•sᴜᴘᴘᴏʀᴛ•", url=f"https://t.me/VAMPIREUPDATES"
             ),
         ],
     ]
